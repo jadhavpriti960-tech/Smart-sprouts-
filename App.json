@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Smart Sprouts",
+    "slug": "smart-sprouts",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.priti.kidslearnplay",
+      "versionCode": 1
+    }
+  }
+}
